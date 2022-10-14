@@ -1,0 +1,512 @@
+
+pablo@MSI MINGW64 ~/Documents
+$
+$ cd
+$ cd ..
+
+pablo@MSI MINGW64 ~
+$
+$ mkdir
+$ mkdir lep22041278
+
+pablo@MSI MINGW64 ~
+$
+$ cd
+$ cd lep22041278/
+
+pablo@MSI MINGW64 ~/lep22041278
+$
+$ kaggle
+$ kaggle s
+$ kaggle
+$ kaggle dataset
+$ kaggle datase
+$ kaggle datas
+$ kaggle data
+$ kaggle dat
+$ kaggle da
+$ kaggle d
+$ kaggle d list
+$ kaggle d list -s
+$ kaggle d list -s "España"
+ref                                                             title
+                          size  lastUpdated          downloadCount  voteCount  usabilityR
+ating
+--------------------------------------------------------------  -------------------------
+-----------------------  -----  -------------------  -------------  ---------  ----------
+-----
+ricardomoya/tweets-poltica-espaa                                Tweets Política España
+                          17MB  2022-04-29 12:58:07             86          5  1.0
+
+fcojavt/municipios-spain                                        Municipios de España
+                         224KB  2020-05-18 15:35:15            119          6  0.7058824
+
+nicholasjhana/energy-consumption-generation-prices-and-weather  Hourly energy demand gene
+ration and weather         4MB  2019-10-10 14:02:37          12777        276  1.0
+
+datashyends/programas10n                                        Programas Elecciones Espa
+ña 10-N 2019             228KB  2019-11-10 17:11:33             24          1  1.0
+
+datamarket/movilidad-de-personas                                Movilidad de personas
+                          32MB  2021-02-05 08:49:55            109          5  1.0
+
+mikelmoli/municipal-postal-codes-spain-cdigos-postales          Municipal Postal Codes of
+ Spain                   394KB  2022-02-26 11:40:14             37         10  0.7647059
+
+datamarket/noticias-economicas                                  Noticias Económicas
+                          16MB  2021-02-09 18:42:15             55          7  0.9411765
+
+datamarket/ofertas-de-mvil-fibra-y-tv                           Ofertas de móvil, fibra y
+ TV                       12KB  2021-02-11 17:46:13             39          5  0.9411765
+
+xaxipirulazo/red-electrica-espaola-consumo-y-precios            Red Electrica De España
+                         308KB  2020-03-26 14:40:32             47          1  0.4117647
+
+sszbigdata/pib-y-paro-en-espaa                                  PIB y paro en España
+                          852B  2018-09-14 12:22:16            100          1  0.75
+
+datamarket/productos-de-supermercados                           Productos de supermercado
+s                         19MB  2021-02-17 08:36:55            463          8  0.9411765
+
+datamarket/ofertas-de-trabajo                                   Ofertas de empleo
+                         189KB  2021-05-19 16:56:11             97          5  0.9411765
+
+datamarket/viajes-en-tren                                       Viajes en tren
+                          34MB  2021-02-09 18:57:10            161          5  0.9411765
+
+jersey33/datos-elecciones-generales-19962016                    Datos elecciones generale
+s 1996-2016 España         9KB  2018-11-16 13:23:48            177          5  0.23529412
+
+datamarket/catastro                                             Catastro
+                           3MB  2021-09-01 07:24:06             26          4  0.9411765
+
+jessemostipak/tour-de-france-winners                            Tour de France Winners
+                           2MB  2020-04-07 15:13:22            420         10  1.0
+
+datamarket/contratacion-publica                                 Contratación Pública
+                           2MB  2021-09-03 09:13:42             23          4  0.9411765
+
+datamarket/boletines-oficiales                                  Boletines Oficiales
+                           2MB  2021-07-02 08:48:38             14          3  0.9411765
+
+jaimevalero/covid19-madrid                                      Covid19 Madrid
+                          13KB  2022-06-21 17:08:52            271         19  0.8235294
+
+manualrg/spanish-electricity-market-demand-gen-price            Spanish Electricity Marke
+t: Demand, Gen. & Price  285KB  2019-03-12 18:12:53           2066         37  0.7647059
+
+
+pablo@MSI MINGW64 ~/lep22041278
+$
+$ ^C
+
+pablo@MSI MINGW64 ~/lep22041278
+$ kaggl
+$ kagg
+$ kag
+$ ka
+$ k
+$
+$ K
+$
+$ kaggle
+$ kaggle d
+$ kaggle d download
+$ kaggle d download -d
+$ kaggle d download -d "datamak
+$ kaggle d download -d "datamarket&cata
+$ kaggle d download -d "datamarket&cat
+$ kaggle d download -d "datamarket&ca
+$ kaggle d download -d "datamarket&c
+$ kaggle d download -d "datamarket&
+$ kaggle d download -d "datamarket/catastro"
+Downloading catastro.zip to C:\Users\pablo\lep22041278
+  0%|                                                       | 0.00/3.41M [00:00<?, ?B/s]
+ 59%|██████████████████████████▉                   | 2.00M/3.41M [00:00<00:00, 11.1MB/s]
+100%|██████████████████████████████████████████████| 3.41M/3.41M [00:00<00:00, 11.2MB/s]
+100%|██████████████████████████████████████████████| 3.41M/3.41M [00:00<00:00, 11.1MB/s]
+
+pablo@MSI MINGW64 ~/lep22041278
+$
+$ un
+$ u
+$
+$ unzip
+$ unzip catastro
+Archive:  catastro.zip
+  inflating: catastro-sample.csv
+
+pablo@MSI MINGW64 ~/lep22041278
+$
+$ git
+$ git init
+Initialized empty Git repository in C:/Users/pablo/lep22041278/.git/
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ GU
+$ GI
+$ G
+$
+$ git
+$ git add
+$ git add .
+warning: in the working copy of 'catastro-sample.csv', LF will be replaced by CRLF the ne
+xt time Git touches it
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   catastro-sample.csv
+        new file:   catastro.zip
+
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git commit
+$ git commit -m
+$ git commit -m "i
+$ git commit -m "Initial
+$ git commit -m "Initial commit"
+[master (root-commit) a2090e3] Initial commit
+ 2 files changed, 60001 insertions(+)
+ create mode 100644 catastro-sample.csv
+ create mode 100644 catastro.zip
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ gi
+$ g
+$
+$ git
+$ git remote
+$ git remote add
+$ git remote add https
+$ git remote add http
+$ git remote add htt
+$ git remote add ht
+$ git remote add h
+$ git remote add
+$ git remote add https://github.com/AWDn0n/lep22041278.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git remote add https://github.com/AWDn0n/lep22041278.git
+$ git remote add  https://github.com/AWDn0n/lep22041278.git
+$ git remote add   https://github.com/AWDn0n/lep22041278.git
+$ git remote add o  https://github.com/AWDn0n/lep22041278.git
+$ git remote add or  https://github.com/AWDn0n/lep22041278.git
+$ git remote add ori  https://github.com/AWDn0n/lep22041278.git
+$ git remote add orig  https://github.com/AWDn0n/lep22041278.git
+$ git remote add origi  https://github.com/AWDn0n/lep22041278.git
+$ git remote add origin  https://github.com/AWDn0n/lep22041278.git
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git push
+$ git push origin
+$ git push origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/AWDn0n/lep22041278.git'
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git push origin main
+$ git remote add origin  https://github.com/AWDn0n/lep22041278.git
+$ git remote add origin https://github.com/AWDn0n/lep22041278.git
+error: remote origin already exists.
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git remote
+$ git remote rm
+usage: git remote remove <name>
+
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git remote rm
+$ git remote rm  https::
+$ git remote rm  https:&
+$ git remote rm  https://
+$ git remote rm  https://github.com/AWDn0n/lep22041278.git
+error: No such remote: 'https://github.com/AWDn0n/lep22041278.git'
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git remote rm  https://github.com/AWDn0n/lep22041278.git
+$ git remote rm
+$ git remote add origin https://github.com/AWDn0n/lep22041278.git
+$ git push origin main
+$ git push origin mai
+$ git push origin master
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects:  50% (2/4)Compressing objects: 100% (4/4), done.
+Writing objects:  50% (2/4)Writing objects:  50% (2/4), 1.09 MiB | 2.16 MiB/sWriting objects:  75% (3/4), 1.09 MiB | 2.16 MiB/sWriting objects: 100% (4/4), 6.77 MiB | 4.04 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+remote:
+remote: Create a pull request for 'master' on GitHub by visiting:
+remote:      https://github.com/AWDn0n/lep22041278/pull/new/master
+remote:
+To https://github.com/AWDn0n/lep22041278.git
+ * [new branch]      master -> master
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git pu
+$ git p
+$ git
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git add
+$ git add .
+$ git add
+$ git ad
+$ git a
+$ git
+$ git push
+$ git pus
+$ git pu
+$ git p
+$ git
+$ git push
+$ git push -u
+$ git push -u origin
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/AWDn0n/lep22041278.git'
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git push -u origin main
+$ git push - origin main
+$ git push  origin main
+$ git push origin main
+$ git pus origin main
+$ git pu origin main
+$ git p origin main
+$ git  origin main
+$ git - origin main
+$ git -u origin main
+$ git -u  origin main
+$ git -u p origin main
+$ git -u pu origin main
+$ git -u pus origin main
+$ git -u push origin main
+$ git -u push  origin main
+unknown option: -u
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git -u push  origin main
+$ git -u push origin main
+unknown option: -u
+usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
+           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
+           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
+           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
+           <command> [<args>]
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git -u push origin main
+$ git -upush origin main
+$ git -push origin main
+$ git push origin main
+$ gitpush origin main
+$ gipush origin main
+$ gpush origin main
+$ gpush origin mai
+$ gpush origin ma
+$ gpush origin m
+$ gpush origin
+$ gpush origi
+$ gpush orig
+$ gpush ori
+$ gpush or
+$ gpush o
+$ gpush
+$ gpus
+$ gpu
+$ gp
+$ g
+$
+$ git
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ gi
+$ g
+$
+$ ls
+$ l
+$
+$ git
+$ gi
+$ g
+$
+$ kaggle
+$ kaggle d
+$ kaggle d download
+$ kaggle d download -d
+$ kaggle d download -d "datamarket/catastro"
+Downloading catastro.zip to C:\Users\pablo\lep22041278
+  0%|                                                       | 0.00/3.41M [00:00<?, ?B/s]
+ 29%|█████████████▍                                | 1.00M/3.41M [00:00<00:00, 7.75MB/s]
+ 59%|██████████████████████████▉                   | 2.00M/3.41M [00:00<00:00, 5.78MB/s]
+ 88%|████████████████████████████████████████▍     | 3.00M/3.41M [00:00<00:00, 5.51MB/s]
+100%|██████████████████████████████████████████████| 3.41M/3.41M [00:00<00:00, 5.56MB/s]
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ unzip
+$ unzip cas
+$ unzip catastro
+Archive:  catastro.zip
+  inflating: catastro-sample.csv
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git status
+On branch master
+nothing to commit, working tree clean
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git add.
+$ git add
+$ git add .
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git commi
+$ git comm
+$ git com
+$ git co
+$ git c
+$ git
+$ gi
+$ g
+$
+$ git
+$ git push
+$ git pus
+$ git pu
+$ git p
+$ git
+$ git commit
+$ git commit -m
+$ git commit -m "Initial
+$ git commit -m "Initial commit"
+On branch master
+nothing to commit, working tree clean
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git push
+$ git push -u
+$ git push -u origin
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'https://github.com/AWDn0n/lep22041278.git'
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+
+$
+$ git
+$ git status
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        catastro_final_22041278.csv
+        lep22041278.R
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git add
+$ git add .
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   catastro_final_22041278.csv
+        new file:   lep22041278.R
+
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git commit
+$ git commit -m
+$ git commit -m "Examen
+$ git commit -m "Examen finalizado"
+[master bb1380b] Examen finalizado
+ 2 files changed, 60067 insertions(+)
+ create mode 100644 catastro_final_22041278.csv
+ create mode 100644 lep22041278.R
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
+$ git
+$ git push
+$ git push -u
+$ git push -u origin
+$ git push -u origin main
+
+pablo@MSI MINGW64 ~/lep22041278 (master)
+$
